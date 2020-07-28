@@ -1,0 +1,17 @@
+h1{
+    color: chartreuse;
+  }
+  #Abdul {font-size: 100px;}
+  #Abdul {background-color: coral;}
+  table{background-color: forestgreen;
+  }
+  li{
+    margin: 50px;background-color: red;
+    padding: 20px;border: 5px solid black;
+  }
+  .form-control{
+    border:2px solid black; background-color: cornflowerblue;animation: backwards;vertical-align: baseline;overflow-anchor: ;
+  }
+  body{
+    background-color: darkviolet;
+  }
